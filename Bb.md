@@ -1,5 +1,5 @@
 # Bb 
 Text text
 
-## [BBB](/wiki/bb.md)
+## [BBB](/wiki/bbb.md)
 ## [BBC](/wiki/bbc.md)
