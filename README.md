@@ -1,5 +1,7 @@
 # Wikiee
 
+## Welcome to the Taxonomy! Please note, that this is work in progress
 
-This is a test repository!
+A framework to describe and classify terms.
 
+## This is a test repository!
