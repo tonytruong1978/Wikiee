@@ -1,5 +1,5 @@
 # Aa 
 Text text
 
-## [AAA](/Wikiee/blob/master/wiki/A/AAA.md)
-## [AOC](/Wikiee/blob/master/wiki/A/AOC.md)
+## [AAA](/wiki/A/AAA.md)
+## [AOC](/wiki/A/AOC.md)
