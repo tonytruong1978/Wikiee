@@ -1,5 +1,5 @@
 # Aa 
 Text text
 
-## [AAA](/wiki/A/AAA.md)
-## [AOC](/wiki/A/AOC.md)
+## [AAA](/wiki/AAA.md)
+## [AOC](/wiki/AOC.md)
