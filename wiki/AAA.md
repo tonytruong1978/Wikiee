@@ -1,8 +1,8 @@
 
 ### Authentication, Authorization and Accounting 
-
+#
 #### Abbreviation. AAA
-
+##
 #### Definition
 **AAA** stands for authentication, authorization, and accounting. AAA is a framework for intelligently controlling access to computer resources, enforcing policies, auditing usage, and providing the information necessary to bill for services. These processes working in concert are important for effective network management and security.
 
@@ -15,9 +15,9 @@ Following authentication, a user must gain authorization for doing certain tasks
 **Accounting**
 The final piece in the AAA framework is accounting, which monitors the resources a user consumes during network access. This can include the amount of system time or the amount of data sent and received during a session. Accounting is carried out by logging session statistics and usage information. It is used for authorization control, billing, trend analysis, resource utilization, and planning for the data capacity required for business operations.
 Synonym(s) and related terms.
-
+##
 #### Note.
-
+##
 #### Reference(s).
 
 [https://searchsecurity.techtarget.com/definition/authentication-authorization-and-accounting](https://searchsecurity.techtarget.com/definition/authentication-authorization-and-accounting)
