@@ -8,10 +8,10 @@ A framework to describe and classify terms.
 
 ## [Bb](Bb.md)
 
-## [Cc](Bb.md)
+## [Cc](Cc.md)
 
-## [Dd](Bb.md)
+## [Dd](Dd.md)
 
-## [Ee](Bb.md)
+## [Ee](Ee.md)
 
-## [Ff](Bb.md)
+## [Ff](Ff.md)
