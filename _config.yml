@@ -64,7 +64,6 @@ site_root:
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  auto_ids: false
   input: GFM
   syntax_highlighter: rouge
 
