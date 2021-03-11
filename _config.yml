@@ -78,23 +78,27 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "git-wiki-default"
+      toc: false
  -
     scope:
       path: ""
       type: "pages"
     values:
       layout: "git-wiki-default"
+      toc: false
  -
     scope:
       path: ""
       type: "posts"
     values:
       layout: "git-wiki-post"
+      toc: false
  -
     scope:
       path: blog
     values:
       layout: "git-wiki-blog"
+      toc: false
 sass:
     style: compressed
 plugins:
